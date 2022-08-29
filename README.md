@@ -1,0 +1,1 @@
+This is a simple recipe website meant to practice use of basic html elements such as links, images, and lists.
